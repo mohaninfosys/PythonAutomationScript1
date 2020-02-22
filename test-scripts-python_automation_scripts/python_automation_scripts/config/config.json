@@ -1,0 +1,79 @@
+{
+	"drivers": ["chrome"],
+
+		"driver_config": {
+			"firefox": "--headless"
+		},
+
+		"logix": {
+			"url": "https://enterprise.xoxoday.com/logix",
+			"user": "pavan@xoxoday.com"
+		},
+
+		"login": {
+			"url": "http://ec2-34-210-163-161.us-west-2.compute.amazonaws.com:8098/login",
+			"user_name": "xoxoengage@clientdashboard123.com",
+			"password": "Test@1234"
+		},
+		"login1": {
+			"url": "http://ec2-34-210-163-161.us-west-2.compute.amazonaws.com:8094/login",
+			"user": "employee10@pointc.com",
+			"password": "Test@123"
+		},
+		"rewardpoints": {
+			"rewardfor": "DiwaliBash",
+			"employeename": "xoxotest",
+			"employeemail": "xoxotest1@pointc.com",
+			"points": "100"
+		},
+		"sendvoucher": {
+			"rewardfor": "Appreciation",
+			"employeename": "employee09",
+			"email": "employee09@pointc.com",
+			"points": "100"
+		},
+		"phpmyadmin": {
+			"url": "http://34.210.163.161/phpmyadmin/index.php?db=opencart_new_merge&table=voucher&token=1e41733830ffd8c62be01073539f4d84#PMAURL-2:sql.php?db=xe_new_dev&table=admin_otp_logs&server=1&target=&token=1e41733830ffd8c62be01073539f4d84",
+            "customerotpURL" : "http://34.210.163.161/phpmyadmin/sql.php?db=opencart_new_merge&table=customer_otp&server=1&target%22",
+			"user": "xoxoqa",
+			"password": "qa`321#xo"
+		},
+		"opencart":{
+			"url" : "http://ec2-34-210-163-161.us-west-2.compute.amazonaws.com:8170/index.php?",
+			"user": "admin_cs",
+			"password":"giftxoxo@#123"
+		},
+
+		"stores":{
+			"url1" : "https://cdc2.xoxoday.com/",
+			"url" : "https://x100.xoxoday.com/",
+			"email" : "pavan@xoxoday.com",
+			"name" : "Pavan",
+			"mobilenumber" : "9600466162",
+			"giftvouchers" : "Cafe Coffee Day E-Gift Voucher",
+			"giftvouchers2" : "PVR Gift Card",
+			"currencyVouchers" : "2014 Aster For HCL",
+			"vouchers" : ["66t7c65b3b5x","p77vx73b67cp","654d7444d448","ea7498r37v55","47f88b495228","e46e882f9e77","y493b4y7ac47","cmmdxa9bb4zd","4jf4c87856f8","74832542d33c","298594a54629","8f997cf983eq","99222b55uubw","cc34eb82eeee","fwv4v64vg729","889c886bz88c"]
+		},
+
+		"Directlogin":{
+			"useremail": "test@robot.com",
+			"password" : "Test@1234"
+		},
+
+		"vouchers":{
+			"50": ["dgbd29277kd9","4494vvaa4469","e2d9axdf66a2","8aa2f6fbaf6a","37acdd38n338","4855b234zb58","994x928aq2ba","5hefv434add7","b2bn4e2t9a59","cbf72mbc6d3c","3bh43a4c85eq","47577f7epa56","78b35b6293bc","6924626n5564","aa8dd5999ade","7a944e83ee47","42992m9mc356","ba3ae325ba74","ee8f2ae6fd8f","n69822z5fafd","2n2dd457e96f","8h4ad84b4h2g","2n8255kd7538","8q664aa886bt","2b334c3b4ddc","747796f54275","49d2n24ann9d","65k34c6436ph","77yf7vy77d7e","aa944bjf9nnn","5x62crd82g4a","h965a6w3t822","4dc6uzvx697c","c759m72v28d7","89av9a9a8f49","8698998e98fh","9y54y8e53779","n9c72v6b9596","25r2are5d97m","w42akk3r274k","76dx55c4795f","8szbb3d3d33c"],
+			"100": ["p74bd9m76b54","m6634648tcfc","fad8369469ez","4a9n8788c449","8822ckbb392c","a24243w2a39e","a8fp66f8b6pf","69yen27j9c68","p8ds37qfk3k3","842ee8b5a2ab","8vg5f2933882","6c5699377b85","7477m734ceac","8249ac5ff2fc","eb8bcbevv999","jdpd775fy37b","777ec97ch989","64c9rd3am592","n2989duccb9e","989d5d584nd4","a826g876ra83","bf5c9gc7ctak","f9329pr94e7f","37cneb6bc2ee","ba6c3223ded4"],
+			"300": ["bfu59ceca2f3","a2fd62e48dd8","394374dnd897","6623292nn672","84fu43ac565g","mdm82f8amc24","422f2fa775u4","8kcaft63b88f","3e6bze424724","c24gx287c54e","3q8b2bfcbp9c","3d3de883bv3f","3c676bfc8594","99j94f5a5b3a","uab9586k5aa5","4b9a8w2q5236","ajm56a8mas24","sv6a5dydb5c6","b28tr274a6aa","363453vb7ae2","78e64p4b3ee4","6fx48f632fq4","4db274ydfy32","k9eeef98q8f9","4ffcdx34ad3c","887eedxc5aa3","gtedeecg4768","dah7ab2adpd3","79828ch2fk7d","4e4dffed8944","c745cc2d4r74","3f446a7f65f4","2c7cd89df999","z62623ec5e2d","d266cffde346","babdab4354b5","59fv249d2398","55e55ee223eb","9ebmc979mesb","n2ffeb2be668","wea736exddf8","b99eb74wa6cb","qyy5edncaebe","d78a4fbc4cf5","89a85eayfbee","44t7bf66k66a","cq8bpu998e92","675a5beab9bz","e3f23gb39es9","v653h7545ech","bf589p9u9f94","486c5fe357c7","94849r83b4c5","n3fewb73f8a4","4ed795b999bt","ca6d894daaaa","babraaa8c228","b48a4b5396fc","2x686yy397yb","ee22c39dea35"],
+			"500": ["25d5256989da","734b825f2bbn","3aft3dded6d9","c79d5cfs44j9","vd85vnbqffv4","7747rc9e424a","4e5r4794459c","6q362fc67397","bcf92g434eb9","5c223e53226s","bd9e2fde49f4","5ud47fbd8zx8","b63f55v946tc","3f3569895885","7df7u8b8f84f","zexbe6ebfaz3","5a6663634c76",",754785zcce7b","4zzcs8e8xee4","8d99jf5f99a7","3x873842ce2g","7d385t833788","cb34868c3a3d","c8q3cn84c433","3b84f7xb4d8b","5988dh6c49s9","86f667p8fd78","rsac86ccc6a3","4d24bbdc482c","sadn6984s978","42e7d2g42ed3","8dfgq9aq7mt5"],
+			"1000":["zm7b5b6f9aaa","8332mvdc8b9v","bm28m242d34a","26x2u9x99g4b","n8p293dg53a5","e3325c9z923c","8gbd49adamd8","69627743t442","q66q36xe7xcd","b9af2c2fd22f","xabkff77x52e","b49474797396","cf849ddd88nm","2aee3br5cnen","b95fyhb6bbd8","492f34e5b97a","abpc89ecp8y7","978742ecf3tn","9ccn7bn839b4","72c2c37993bh","d44na47d74cb","98da5398ea5d","4gee79234363","3c2bde357433","5fx8hf3bpa58","9m99b7e9bb77","5jd36x3j5h54","8bbb7a92775g","7dbc3333843c","58bc54daefk7","92ae3dd6f778","9dfb32ab327b","f973fxd38657","c6a3hcdcc4b4","534e37683byb","9797frb88784","62ea57d8aa38","68aya67b5b33","dxh397sb4bd4","3d53qdudf7ef","cds8a77ff7n8","5q9e55b76347","7643f726a9ae","b43ebafb545d","72295dd7aa7f","9abafc23bp4b","348hmbd8a4cf"],
+			"2000":["n4a668eb386c","d7ycfa9e5fya","29ucfeccfce7","b899f9789bb8","57y6s46sr789","b5ef25fd7ad5","64c9374582a4","ur7gr8c4fcg8","de4ea24upr6d","3cmq2f8fb288","s4db4a448d57","eb537dmc32d5","3cmq2f8fb288","s4db4a448d57","eb537dmc32d5"]
+		},
+
+        "CompanyID":{
+          "CompanyName" : ""
+        },
+		"cases": {
+			"Salesorderautomation": ["salesorderautomationsample"]
+		}
+}

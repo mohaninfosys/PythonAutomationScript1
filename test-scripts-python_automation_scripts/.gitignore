@@ -1,0 +1,14 @@
+/test_scriptd_python/_pycache_
+/test_scripts_python/.idea
+/Xoxoday/.classpath
+/Xoxoday/.project
+/Xoxoday/.settings/
+/Xoxoday/target/
+/Xoxoday/testng.xml
+/Xoxoday/test-output/
+/Xoxoday/Xoxoday Reports/
+Xoxoday/.gitignore
+/python_automation_scripts/screenshot
+/python_automation_scripts/config/data.json
+/python_automation_scripts/config/__pycache__
+

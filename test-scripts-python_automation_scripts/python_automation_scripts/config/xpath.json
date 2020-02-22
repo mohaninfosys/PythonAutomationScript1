@@ -1,0 +1,21 @@
+{
+	"logix" : {
+		"adminemail" : "//input[@id='txtEmail']",
+		"next" : "//input[@name='btnNext']",
+		"otp" : "//input[@name='txtOtp']"
+	},
+	"phpmyadmin" : {
+		"username" : "//input[@id='input_username']",
+		"user" : "xoxoqa",
+		"password" : "qa`321#xo"
+	},
+	"companypoints" : {
+		"name" : "XoxodayAutomation98",
+		"points" : "1000",
+		"term" : "Prepaid",
+		"emails" : "pavan@xoxoday.com,shyaram@xoxoday.com",
+		"description" : "Testing",
+		"path" : "D:\\XOXOEngage.pdf"
+	}
+
+}

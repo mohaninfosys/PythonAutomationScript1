@@ -1,0 +1,26 @@
+<component name="ProjectDictionaryState">
+  <dictionary name="Admin">
+    <words>
+      <w>actionclick</w>
+      <w>actiontype</w>
+      <w>clearandtype</w>
+      <w>clickandhold</w>
+      <w>enterkeys</w>
+      <w>findelements</w>
+      <w>getcurrenturl</w>
+      <w>gettext</w>
+      <w>isdisplayed</w>
+      <w>isenabled</w>
+      <w>isselected</w>
+      <w>keystosend</w>
+      <w>listdummy</w>
+      <w>mouseover</w>
+      <w>mouseoverandclick</w>
+      <w>mwait</w>
+      <w>selectbyvisibletext</w>
+      <w>selectcheckbox</w>
+      <w>waitforlocator</w>
+      <w>webelement</w>
+    </words>
+  </dictionary>
+</component>
